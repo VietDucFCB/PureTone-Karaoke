@@ -1,0 +1,11 @@
+numpy
+scipy
+librosa
+spleeter
+demucs
+whisper-openai
+pysrt
+pydub
+aeneas
+moviepy
+ffmpeg-python
