@@ -167,6 +167,10 @@ The application uses energy-based detection to find segments with vocal activity
 4. Group adjacent frames into continuous segments
 5. Filter out segments that are too short
 
+### Video Demo
+
+![PureTone](https://drive.google.com/file/d/1jqXl7kL_qRXacimsL8gqPGAkMotJMbBA/view?usp=sharing)
+
 ## Performance Optimization
 
 - **Chunked Processing**: Long audio files are processed in small chunks (20-30 seconds) to minimize memory usage
