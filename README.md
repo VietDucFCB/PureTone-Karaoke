@@ -169,7 +169,7 @@ The application uses energy-based detection to find segments with vocal activity
 
 ### Video Demo
 
-![PureTone](https://drive.google.com/file/d/1jqXl7kL_qRXacimsL8gqPGAkMotJMbBA/view?usp=sharing)
+https://drive.google.com/file/d/1jqXl7kL_qRXacimsL8gqPGAkMotJMbBA/view?usp=sharing
 
 ## Performance Optimization
 
